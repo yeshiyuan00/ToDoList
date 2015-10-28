@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ToDoList.iml" filepath="$PROJECT_DIR$/ToDoList.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conquerApp/conquerApp.iml" filepath="$PROJECT_DIR$/conquerApp/conquerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minimal/minimal.iml" filepath="$PROJECT_DIR$/minimal/minimal.iml" />
     </modules>
   </component>
 </project>
